@@ -8,6 +8,6 @@ It is based on Dash to render the platform and MongoDB to store the data.
 
 ## Screenshots
 
-[tv]
+![tv]
 
 [tv]: https://github.com/evan-lh/media-manager-intro/blob/main/media-manager-preview.png
